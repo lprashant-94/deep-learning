@@ -20,3 +20,6 @@ Notebook for learning deep learning
 - https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a
 - https://www.tensorflow.org/guide/keras#build_a_simple_model
 - https://keras.io/layers/core/
+- https://machinelearningmastery.com/better-deep-learning/
+- https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+- 
