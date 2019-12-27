@@ -23,6 +23,11 @@ Notebook for learning deep learning
   - Initializer: kernel and bias initial values.
 - All keras layers: https://keras.io/layers/core/ I will focus on only some of them: Dense, Flatten, Dropouts
 
+# Next Day Plan:
+- Take other example
+- Create script to try combinaations of units and activation functions. tabular result of each ones accuracy.
+- Understand What happens when we apply keras layer.
+
 # References:
 - https://www.tensorflow.org/tutorials/keras/classification
 - https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a
