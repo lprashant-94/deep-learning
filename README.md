@@ -30,4 +30,4 @@ Notebook for learning deep learning
 - https://keras.io/layers/core/
 - https://machinelearningmastery.com/better-deep-learning/
 - https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
-- 
+- https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions
