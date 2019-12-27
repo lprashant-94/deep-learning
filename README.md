@@ -15,6 +15,14 @@ Notebook for learning deep learning
 - Saw video on Types of layers of keras. Convolution, Pooling, Normalization and 
 - Tried Text classification.
 
+# Day3:
+- Reading about relu, CNN and other concepts
+- Understanding keras.layers.Dense: CNN layer op = activation(in, kernel) + bias
+  - Units: size of output
+  - Activation: function to apply linear or non-linear
+  - Initializer: kernel and bias initial values.
+- All keras layers: https://keras.io/layers/core/ I will focus on only some of them: Dense, Flatten, Dropouts
+
 # References:
 - https://www.tensorflow.org/tutorials/keras/classification
 - https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a
