@@ -25,11 +25,11 @@ Notebook for learning deep learning
 
 # Day4:
 - Learnt concept of epoch and its effect and training.
-- Try regression example for fuel efficiency.
+- Tried fuel efficiency regression example.
 
 # Next Day Plan:
 - Take other example
-- Create script to try combinaations of units and activation functions. tabular result of each ones accuracy.
+- Create script to try combinaations of units, epoch and activation functions. tabular result of each ones accuracy.
 - Understand What happens when we apply keras layer.
 
 # References:
