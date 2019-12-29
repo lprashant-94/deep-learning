@@ -23,6 +23,10 @@ Notebook for learning deep learning
   - Initializer: kernel and bias initial values.
 - All keras layers: https://keras.io/layers/core/ I will focus on only some of them: Dense, Flatten, Dropouts
 
+# Day4:
+- Learnt concept of epoch and its effect and training.
+- Try regression example for fuel efficiency.
+
 # Next Day Plan:
 - Take other example
 - Create script to try combinaations of units and activation functions. tabular result of each ones accuracy.
@@ -36,3 +40,4 @@ Notebook for learning deep learning
 - https://machinelearningmastery.com/better-deep-learning/
 - https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 - https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions
+- https://deepai.org/machine-learning-glossary-and-terms/epoch
